@@ -18,8 +18,7 @@
   "license": "https://github.com/TaaabsElements/taaabs-samotraceme/LICENSE",
   "dependencies": {
     "polymer": "polymer/polymer#^1.0.0",
-    "taaabs-stylesheet-behavior": "https://github.com/TaaabsElements/taaabs-stylesheet-behavior.git",
-    "samotracesjs": "https://github.com/liris-tweak/samotraces.js.git#0.21.0"
+    "taaabs-stylesheet-behavior": "https://github.com/TaaabsElements/taaabs-stylesheet-behavior.git"
   },
   "devDependencies": {
     "iron-component-page": "polymerelements/iron-component-page#^1.0.0",
